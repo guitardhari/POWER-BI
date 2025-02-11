@@ -1,13 +1,11 @@
-Here's your GitHub README formatted with proper Markdown syntax:  
 
-```md
-# 🚖 OLA Ride Analysis Dashboard
+# OLA Ride Analysis Dashboard
 
-## 📌 Project Overview
+##  Project Overview
 This project involves analyzing OLA ride data using **Power BI** to extract key insights related to ride volume, revenue, vehicle types, cancellations, and customer/driver ratings. The interactive dashboard helps stakeholders make data-driven decisions to improve service efficiency and customer satisfaction.
 
-## 📊 Key Insights
-### 1️⃣ Overall Performance
+##  Key Insights
+### 1️ Overall Performance
 - **Ride Volume Trend:** Analyzed ride demand over time.
 - **Booking Status Breakdown:** Distribution of completed, canceled, and ongoing rides.
 
