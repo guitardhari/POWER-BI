@@ -88,10 +88,3 @@ By addressing these key areas, **OLA can increase ride success rates, maximize r
 ---
 Give this project a ⭐ if you find it useful!
 ```
-
-Make sure to replace:
-- `your-dashboard-image-link` with an actual image link of your dashboard.
-- `your-linkedin-profile` with your LinkedIn URL.
-- `your-email` with your email address (if you want to include it).  
-
-Let me know if you need any modifications! 🚀
